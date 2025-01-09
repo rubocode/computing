@@ -1,5 +1,5 @@
 > [home](/)
-> &bull; * [altOS™](/altOS)
+> &bull; [altOS™](/altOS)
 
 ![banner](/computing/photos/banner.png)
 
