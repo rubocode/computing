@@ -7,6 +7,23 @@
 > You never change things by fighting the existing reality.  To change something, build a new model that makes the existing model obsolete.  
 > **Buckminster Fuller**
 
-* [The Society of Mind](society)
+### Systems
+
+* [The Society of Mind (Minsky)](society)
 * [Federated Learning Systems](federated)
-* [Communicating Sequential Processes](csp)
+* [Communicating Sequential Processes (Hoare)](csp)
+
+### Units
+
+* [Actors](actors)
+* [Agents](agents)
+
+### Computation
+
+* [Data](data)
+* [Functions](functions)
+* [Machines](machines)
+* [Networks](networks)
+* [Objects](objects)
+* [Processes](processes)
+* [Systems](systems)
