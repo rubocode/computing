@@ -12,6 +12,7 @@
 * [The Society of Mind (Minsky)](society)
 * [Communicating Sequential Processes (Hoare)](csp)
 * [Federated Learning Systems](federated)
+* [Micro Services](microservices)
 
 ### Units
 
