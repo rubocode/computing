@@ -10,8 +10,8 @@
 ### Systems
 
 * [The Society of Mind (Minsky)](society)
-* [Federated Learning Systems](federated)
 * [Communicating Sequential Processes (Hoare)](csp)
+* [Federated Learning Systems](federated)
 
 ### Units
 
