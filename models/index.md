@@ -8,5 +8,5 @@
 > **Buckminster Fuller**
 
 * [The Society of Mind](society)
-* [Federated Learning Systems](fedeated)
+* [Federated Learning Systems](federated)
 * [Communicating Sequential Processes](csp)
