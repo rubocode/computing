@@ -11,5 +11,5 @@
 * [Introduction](introduction)
 * [Models](models)
 * [The Go Programming Language](/go)
-* [Efficiency](efficiency)
 * [Reliability](reliability)
+* [Efficiency](efficiency)
