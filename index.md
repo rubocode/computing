@@ -1,4 +1,5 @@
 > [home](/)
+> &bull; * [altOS™](/altOS)
 
 ![banner](/computing/photos/banner.png)
 
@@ -10,4 +11,5 @@
 * [Introduction](introduction)
 * [Models](models)
 * [The Go Programming Language](/go)
-* [altOS™](/altOS)
+* [Efficiency](efficiency)
+* [Reliability](reliability)
