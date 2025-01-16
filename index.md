@@ -11,7 +11,5 @@
 
 * [Introduction](introduction)
 * [Models](models)
-* [Languages](languages)
-* [Reliability](reliability)
 * [Scalability](scalability)
 * [Efficiency](efficiency)
