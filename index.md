@@ -11,5 +11,3 @@
 
 * [Introduction](introduction)
 * [Models](models)
-* [Scalability](scalability)
-* [Efficiency](efficiency)
