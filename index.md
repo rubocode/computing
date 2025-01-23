@@ -1,4 +1,5 @@
 > [home](/)
+> &bull; [profile](/profile)
 > &bull; [programming](/programming)
 > &bull; [altOS™](/altOS)
 
