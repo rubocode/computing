@@ -8,6 +8,6 @@
 > **Bjarne Stroustrup**
 
 * [Introduction](introduction)
-* [Models](models)
+* [Models of Organization](models)
 * [Collaborative Distributed Intelligence](/cdi)
 * [The Go Programming Language](/go)
