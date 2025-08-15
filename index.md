@@ -1,7 +1,4 @@
 > [home](/)
-> &bull; [profile](/profile)
-> &bull; [programming](/programming)
-> &bull; [altOS™](/altOS)
 
 ![banner](/computing/photos/banner.png)
 
@@ -12,3 +9,4 @@
 
 * [Introduction](introduction)
 * [Models](models)
+* [Collaborative Distributed Intelligence](/cdi)
