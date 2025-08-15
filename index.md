@@ -10,3 +10,4 @@
 * [Introduction](introduction)
 * [Models](models)
 * [Collaborative Distributed Intelligence](/cdi)
+* [The Go Programming Language](/go)
