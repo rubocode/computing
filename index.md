@@ -5,8 +5,8 @@
 
 ## Understanding Intelligence
 
-> If you think it is simple, you don’t understand the problem.  
-> **Bjarne Stroustrup**
+> You don't understand anything until you learn it more than one way.  
+> **Marvin Minsky**
 
 * [Introduction](introduction)
 * [Models of Organization](models)
