@@ -9,7 +9,7 @@
 > **Marvin Minsky**
 
 * [Introduction](introduction)
-* [Models of Organization](/models)
+* [Models of Computation](/models)
 * [Collaborative Distributed Intelligence](/cdi)
 * [Linguistics](/linguistics)
 * [C](/c), [C++](/cpp) and [Go](/go)
