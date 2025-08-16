@@ -11,5 +11,4 @@
 * [Models of Computation](/models)
 * [Collaborative Distributed Intelligence](/cdi)
 * [Linguistics](/linguistics)
-* [C](/c), [C++](/cpp) and [Go](/go)
 * [A Better C](/abc)
