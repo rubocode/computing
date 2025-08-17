@@ -8,7 +8,7 @@
 > You don't understand anything until you learn it more than one way.  
 > **Marvin Minsky**
 
-* [Models of Computation](/models)
+* [Models of Systems](/models)
 * [Collaborative Distributed Intelligence](/cdi)
 * [Linguistics](/linguistics)
 * [A Better C](/abc)
