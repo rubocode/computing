@@ -10,5 +10,6 @@
 
 * [Models of Systems](/models)
 * [Collaborative Distributed Intelligence](/cdi)
+* [Intelligent Task Management](/iTask)
 * [Linguistics](/linguistics)
 * [A Better C](/abc)
