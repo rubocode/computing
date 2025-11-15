@@ -1,6 +1,6 @@
 > [home](/)
-> [altOS&trade;](/altOS)
-> [iTask&trade;](/iTask)
+> &bull; [altOS&trade;](/altOS)
+> &bull; [iTask&trade;](/iTask)
 > &bull; Work in progress...
 
 ![banner](/computing/photos/banner.png)
