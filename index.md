@@ -12,6 +12,6 @@
 
 * [Models of Systems](/models)
 * [Collaborative Distributed Intelligence](/cdi)
-* [Linguistics](/linguistics)
 * [The Go Progamming Language](/go)
+* [Linguistics](/linguistics)
 * [A Better C](/abc)
