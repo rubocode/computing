@@ -9,7 +9,7 @@
 > **Marvin Minsky**
 
 * [Models of Systems](/models)
-* [Collaborative Distributed Intelligence](/cdi)
-* [Intelligent Task Management](/iTask)
 * [Linguistics](/linguistics)
-* [A Better C](/abc)
+* [Languages for Systems Programming](/languages)
+* [The Core Machine Abstraction](/core)
+* [A General Purpose Language](/versatile)
