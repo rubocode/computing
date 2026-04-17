@@ -9,6 +9,7 @@
 
 * [Languages for Systems Programming](/languages)
 * [The Core Machine Abstraction](/core)
-* [Linguistics](/linguistics)
-* [Models of Systems](/models)
 * [A Minimal General Purpose Language](/adept)
+* [Models of Systems](/models)
+* [Linguistics](/linguistics)
+
