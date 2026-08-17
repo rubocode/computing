@@ -8,6 +8,6 @@
 > You don't understand anything until you learn it more than one way.  
 > **Marvin Minsky**
 
-* [The Go Programming Language](/go)
-* [Linguistics](/linguistics)
-* [A Better C](/abc)
+* [The Rust Programming Language](/rust)
+* [The Neovim Editor](/neovim)
+
