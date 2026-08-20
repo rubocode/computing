@@ -1,4 +1,4 @@
-> [home](/systems)
+> [home](/)
 
 ![banner](/computing/photos/banner.png)
 
@@ -6,7 +6,4 @@
 
 > You don't understand anything until you learn it more than one way.  
 > **Marvin Minsky**
-
-* [The Rust Programming Language](/rust)
-* [The Neovim Editor](/neovim)
 
